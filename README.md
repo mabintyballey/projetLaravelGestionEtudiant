@@ -3,7 +3,7 @@
 Ce projet est une application Laravel permettant de gérer les users(Professeurs, Personnels, Etudiants), les departement, classes, matiere et les notes.
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/Mabintyballey/projetLaravelGestionEtudiant.git
+   git clone https://github.com/mabintyballey/projetLaravelGestionEtudiant.git
    cd projetLaravelGestionEtudiant
 2. **Installer les dépendances** 
      composer install
@@ -21,7 +21,7 @@ Ce projet est une application Laravel permettant de gérer les users(Professeurs
        php artisan migrate --seed
 7. **Lancer le serveur**
         php artisan serve
-   **Équipe L4 UBO**
+ 8  **Équipe L4 UBO**
   Admin : @Mabintyballey
 Développeur (Professeur, Personnel) : @booba
 Développeur (Etudiant) : @Saran
