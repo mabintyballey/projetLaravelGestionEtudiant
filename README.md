@@ -21,7 +21,7 @@ Ce projet est une application Laravel permettant de gérer les users(Professeurs
        php artisan migrate --seed
 7. **Lancer le serveur**
         php artisan serve
- 8  **Équipe L4 UBO**
+8.  **Équipe L4 UBO**
   Admin : @Mabintyballey
 Développeur (Professeur, Personnel) : @booba
 Développeur (Etudiant) : @Saran
